@@ -1,0 +1,20 @@
+
+click
+PyYAML
+halo
+tqdm
+deepdiff
+
+fhir.resources==7.1.0  # FHIR Model
+orjson
+nested_lookup
+
+# json web token
+PyJWT==2.8.0
+g3t
+pydantic
+requests
+
+
+ndjson
+inflection
